@@ -26,6 +26,12 @@
             "email": "alexander.gaal@gipfel.dev"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Mutahhar/laravel-command-hooks.git"
+        }
+    ],
     "require": {
         "php": "^8.0",
         "illuminate/support": "^9.0|^10.0",
